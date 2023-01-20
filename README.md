@@ -9,3 +9,5 @@ site criado em momentos de distração
 <p> espero que goste desse site ksks</p>
 
 
+# link para o site
+https://meirellesbrito.github.io/pokedex.github.io/
