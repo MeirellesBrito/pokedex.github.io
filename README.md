@@ -8,5 +8,4 @@ site criado em momentos de distração
 <p> estava navegando na internet e vir um site parecido e acabei gostando da ideia entao fui procurar  sber como foi feito </p>
 <p> espero que goste desse site ksks</p>
 
-<h1> Link do site </h1>
-# https://meirellesbrito.github.io/pokedex.github.io
+
